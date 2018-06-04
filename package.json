@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jospablos/npm-name-checker/issues"
   },
-  "homepage": "https://github.com/jospablos/npm-name-checker#readme"
+  "homepage": "https://github.com/jospablos/npm-name-checker#readme",
+  "bin": {
+    "npmcheck": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
 }
