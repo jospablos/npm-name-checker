@@ -1,0 +1,19 @@
+{
+  "name": "npm-name-checker",
+  "version": "1.0.0",
+  "description": "Check if a name is taken on the npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jospablos/npm-name-checker.git"
+  },
+  "author": "jospablos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jospablos/npm-name-checker/issues"
+  },
+  "homepage": "https://github.com/jospablos/npm-name-checker#readme"
+}
